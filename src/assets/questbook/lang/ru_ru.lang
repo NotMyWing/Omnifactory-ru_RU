@@ -1,0 +1,31 @@
+# line 0
+omnifactory.quest.line.0.title=Начало
+omnifactory.quest.line.0.desc=Тир Low Voltage: начни строить свою фабрику!%n%nГенерация ресурсов с помощью §bDeep Mob Learning§r.%n%nПостройка §3Электрическую Доменную Печь§r для плавления более продвинутых материалов.%n%Ранняя техника §bEnderIO§r и цифровое хранилище §bApplied Energistics 2§r.
+
+# line 1
+omnifactory.quest.line.1.title=Ранняя Игра
+omnifactory.quest.line.1.desc=Тир Medium Voltage: новая техника и примитивная обработка руды.%n%nОрганическая Химия и создание §6Пластика§r, постройка §3Дистилляционной Башни§r.%n%nАвтоматизация с помощью §bApplied Energistics 2§r. Введение в §bActually Additions§r.
+
+# line 2
+omnifactory.quest.line.2.title=Середина Игры
+omnifactory.quest.line.2.desc=Тиры High Voltage, Extreme Voltage, and Insane Voltage:%n%n§6§3Криогенная Дистиляция§r, нефтехимия, производство §6Эпоксидной Смолы§r и §9Цетанового Дизеля§r.%n%nСоздание §6Звёзд Края§r и первые машины §bThermal Expansion§r.%n%nПостройка реакторов и получение различных ресурсов мода §bNuclearCraft§r.%n%nКосмическая Станция и Варп-Двигатель.
+
+# line 3
+omnifactory.quest.line.3.title=Прогрессия
+omnifactory.quest.line.3.desc=Движение вперёд открывает новые возможности и позволяет тратить меньше ресурсов.%n%nЭта вкладка позволяет взглянуть на прогрессию §5Omnifactory§r.%n%nСхемы являются основным показателем прогресса.
+
+# line 4
+omnifactory.quest.line.4.title=Поздняя Игра
+omnifactory.quest.line.4.desc=Тиры LuV, ZPM, and UV:%n%nПостройка §3Сборочных Линий§r, §3Термоядерных Реакторов§r, и многое другое!%n%nАвтоматизация с помощью §bPackagedAuto§r. Продвижение по тирам §6Micro Miners§r.%n%nСоздание предметов при помощи Ядра Слияния из §bDraconic Evolution§r.
+
+# line 5
+omnifactory.quest.line.5.title=Конец Игры
+omnifactory.quest.line.5.desc=Начался финальный раунд...%n%nПоглощение микро-вселенных и разблокировка §dТворческий Резервуар§r для бесконечных жидкостей.%n%nФинальный тест фабрики на прочность с целью получения §dТворческого Улучшения Хранилища§r.
+
+# line 6
+omnifactory.quest.line.6.title=Генезис
+omnifactory.quest.line.6.desc=Добро пожаловать в §5Omnifactory§r, я буду твоим гидом.
+
+# line 7
+omnifactory.quest.line.7.title=В Микро-Вселенную!
+omnifactory.quest.line.7.desc=Введение в §bExtra Utilities§r и §bExtended Crafting§r.%n%nПокори Край или воспользуйся §bEnderIO§r для открытия возможности телепортации.%n%nПостройка ракеты и покорение Луны (...можно и нет, но это весело!).%n%nПришло время начать использовать §eмикро-вселенные§r для получения ресурсов.
