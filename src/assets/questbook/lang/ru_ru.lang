@@ -29,3 +29,207 @@ omnifactory.quest.line.6.desc=Добро пожаловать в §5Omnifactory�
 # line 7
 omnifactory.quest.line.7.title=В Микро-Вселенную!
 omnifactory.quest.line.7.desc=Введение в §bExtra Utilities§r и §bExtended Crafting§r.%n%nПокори Край или воспользуйся §bEnderIO§r для открытия возможности телепортации.%n%nПостройка ракеты и покорение Луны (...можно и нет, но это весело!).%n%nПришло время начать использовать §eмикро-вселенные§r для получения ресурсов.
+
+# db 0
+omnifactory.quest.db.0.title=Заряженный Кварц
+omnifactory.quest.db.0.desc=Основная функция данного устройства это превращение §6Кристаллов Истинного Кварца§r в §6Заряженные Кристаллы Истинного Кварца§r.%n%nЕго можно подключить как к проводникам RF, так и к сети МЭ.%n%nЗарядник принимает энергию лишь с двух сторон. С каких? Достаточно легко предположить.%n%n%n%n%n%n%n%n%nЛадно, ладно. Верх и низ.%n%n
+
+# db 1
+omnifactory.quest.db.1.title=Камера Выращивания Кристаллов
+omnifactory.quest.db.1.desc=§3Камера Выращивания Кристаллов§r - это альтернатива стандартным рецептам создания чистых и изменчивых кристаллов §bApplied Energistics§r. Ура! Больше ничего не нужно бросать в лужи!%n%nДве основные функции этого устройства это превращение §6Семян Кристаллов§r в §6Чистые Кристаллы§r и создание §6FИзменчивых Кристаллов§r.%n%nТак как JEI не показывает рецепты данного устройства, то вкратце:%n%nСемяна можно получить дроблением любого из трёх основных используемых кристаллов и смешением их с Песком. Помещенное в Камеру семя быстро вырастает в Чистый Кристалл, который является в два раза менее затратной альтернативой обычным кристаллом. ...Чистые Кристаллы для получения ещё большего количества кристаллов дробить нельзя, прости.%n%nКак было сказано выше, Камера может создавать Изменчивые Кристаллы: для создания двух таких кристаллов потребуется §6Пыль Красного Камня§r, §6Заряженный Истинный Кварц§r и §6Кварц Нижнего Мира§r.
+
+# db 2
+omnifactory.quest.db.2.title=Консервная Машина
+omnifactory.quest.db.2.desc=Внимание: данный квест принимает Консервную Машину как LV, так и MV.%n%nВ то время как §aБатареи тира LV§r можно создать вручную, более эффективные методы хранения энергии EU требуют использования машин, так что придётся немного потрудиться.%n%nВоспользуйся §3Центрифугой§r для получения §6Сурьмы§r, которая является би-продуктом §6Тетраэдритовой§r и §6Стибнитовой§r руд.%n%n
+
+# db 3
+omnifactory.quest.db.3.title=Генезис
+omnifactory.quest.db.3.desc=Добро пожаловать в §5Omnifactory§f!%n%nЭта сборка расчитана на игру в мире §bLost Cities / Overworld§f.%n%nЕсли ты играешь с друзьями, не забудь открыть квестбук и пригласить их в §eсвою группу§f.%n%n§fЕсли ты хочешь построить свою базу в скайблочном мире, воспользуйся §6тортом Void World§f: поставь его на что-нибудь и нажми правой кнопкой для путешествия в Void World. На ранних этапах тебе придётся возвращаться в мир Lost Cities / Overworld для пополнения запасов ресурсов и руды, но уже можно заложить первый кирпич базы в §eVoid World§f.
+
+# db 4
+omnifactory.quest.db.4.title=Железо
+omnifactory.quest.db.4.desc=§c§rРуды §5Omnifactory§f генерируются в больших кластерах, в так называемых '§eжилах§f'. Пройти мимо них невозможно: они генерируются часто. В твоём инвентаре есть §aСканер§f - устройство, подсвечивающее жилы в радиусе 16 блоков вокруг тебя, так что попробуй немного прокопать вниз и зажать §6правую кнопку§f держа Сканер в руках до тех пор, пока шкала в центре не наполнится.%n%nWХотя Сканеру нужна энергия, батарея достаточно большая и ты вряд ли исчерпаешь заряд. В дальнейшем квестбук выведет тебя на создание §aФлаксового Конденсатора§f, который позволит тебе заряжать инструменты и броню.%n%nОтложим теорию и перейдём к практике: сейчас тебе потребуется отыскать §6Железо§f. У тебя есть несколько вариантов: §6Магнетитовые§f жилы генерируются выше к поверхности и содержат большое количество железо (а также немного §6Ванадия§f и §6Золота§f), либо §6Лимонитовые§f жилы, либо §6Пиритовые§f жилы (которые также содержат §6Медь§f).%n%n§6Кованое Железо§f является продуктом §eповторной плавки железа в печи§f. Оно прочнее обычного Железа, и является более лучшим материалом для инструментом, но несмотря на это §cНЕ СТОИТ плавить всё Железо в Кованое Железо§f: эти два материала не взаимозаменяемы в рецептах создания.
+
+# db 5
+omnifactory.quest.db.5.title=Шахтёрские Молоты
+omnifactory.quest.db.5.desc=§aШахтёрские Молоты§r предоставляют возможность быстро раскапывать большие участки в зоне 3x3.%n%n§6Камень§f является самым дешёвым и наименее прочным материалом, §6Железо§f обладает более высокой прочностью, но лучшими материалами для Шахтёрских Молотов являются §6Алмаз§f и §6Платина§f. Хотя можно использовать другие материалы, рекомендуется использовать Алмаз ввиду его прочности и доступности.%n%n§c§nНИКОГДА не разрушайте машины GregTechCE Шахтёрскими Молотами!§r%n%n
+
+# db 6
+omnifactory.quest.db.6.title=Нужно Больше Материалов
+omnifactory.quest.db.6.desc=Перед тем как продолжить, тебе необходимо запастись большим количеством материалов.%n%n§6Красный камень§f: Генерируется близко к Коренной Породе, в жилах также содержится §6Киноварь§f and §6Рубин§f.%n%n§6Медь§f: В основном встречается в виде §6Тетраэдритовых§f жил ближе к поверхности, и более низких §6Халькопиритовых§f жил, содержащих также примесь §6Железа§f. В некоторых Железных жилах содержится §6Малахит§f - ещё один тип Медной руды.%n%n§6Олово§f: Зачастую встречается на поверхности, почти всегда в радиусе обнаружения §aСканера§f. §6Касситеритовая руда§f также содержит олово. Если же по каким-то причинам тебе не удаётся найти жилы Олова, оно встречается в небольших количествал в §6Алюминиевыъ§f и §6Солевых§f жилах, чего может хватить до нахождения полноценной жилы Олова.%n%n§6Уголь§f: Встречается относительно глубоко. §6Бурый Уголь§f является менее чистой формой Угля.%n%n§6Золото§f: Встречается в §6Магнетитовых§f жилах, близко к поверхности.
+
+# db 7
+omnifactory.quest.db.7.title=Кабели
+omnifactory.quest.db.7.desc=Простейшие кабели вроде §6Кабелей из Красного Сплава§f можно создать вручную обмотав провода §6Резиновыми Листами§f.%n%nДля более продвинутых материалов потребуется §3Сборщик§f и жидкая §9Резина§f, но пока волноваться не стоит.
+
+# db 8
+omnifactory.quest.db.8.title=The Third Tier Three Circuits
+omnifactory.quest.db.8.desc=With three §6Microcircuits§r and some standard components, you can upgrade to the penultimate Tier Three circuit: a §6Microprocessor§r.
+
+# db 9
+omnifactory.quest.db.9.title=Ore Doubling?
+omnifactory.quest.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Omnifactory, though§f. Ore veins are massive, and mining is extremely fast with §aMining Hammers§f. What's more, even once you get access to §3Macerators§f, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials or anything you buy with §dOmnicoins §fbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have Medium Voltage machines or even later.§r
+
+# db 10
+omnifactory.quest.db.10.title=Tier Two Micro Miner
+omnifactory.quest.db.10.desc=The Second Micro Miner!%n%nThis uses an §bExtended Crafting§r table so it's not possible to automate the Miner itself with §bApplied Energistics 2§r just yet (this requires more advanced technology not easy to access until the Tier Four Micro Miner). You can make it semi-automatically by prestocking the components you need, and filling up the Extended Crafting Table with §bJEI§r!%n%nThis Micro Miner can get you:§6%n* Bauxite Ore%n* Niobium Ore%n* Copper Ore%n* Tungstate Ore%n* Scheelite Ore%n* Cassiterite Ore%n* Radium Salt§r%n%nAs well as the §6Stellar Creation Data§r, which will be useful much, much later.
+
+# db 11
+omnifactory.quest.db.11.title=Electronics Subcomponents
+omnifactory.quest.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Worktable§r... you'll be making a LOT of these things.
+
+# db 12
+omnifactory.quest.db.12.title=Some Starter Tools
+omnifactory.quest.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§f will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§f. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§f... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a "§6Darmstadtium§f" tool (or sometimes §6Aluminium§f) of the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. So just ignore the tool's material in the recipes, it can be whatever you'd like.%n%nFor now, make a §aHammer§f (not a §aMining Hammer§f, mind you... six ingots, not five). Hammers can be used to turn §etwo ingots into one plate§f. §6Plates§f can make a §aFile§f, Files can make §6Rods§f, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§f is probably your best bet for a tool material right now, but better materials will become available as you progress.
+
+# db 13
+omnifactory.quest.db.13.title=Worktables Are Life
+omnifactory.quest.db.13.desc=If you try to craft each item on demand, you'll go insane. Use §3Worktables§f to save recipes for all the steps in production chains for things like tools, circuits, machine casings, and more. If you're doing things right, you'll likely have §ea dozen or more worktables§f in short order.%n%nLoad up the table's storage area with the necessary materials, and §ebatch-craft§f items when needed. The satisfaction of clicking a few buttons and getting §ea stack of finished items§f crafted up is worth the effort.%n%nEach worktable will remember up to the last nine recipes you made in them, which can be recalled by clicking in the top-right recipe history pane. If you want to ensure a recipe doesn't ever get replaced by a different one, right-click it in the history pane to lock it.
+
+# db 14
+omnifactory.quest.db.14.title=Furnace v2.0
+omnifactory.quest.db.14.desc=§3Iron Furnaces§f can smelt an item in §a150 ticks§f, which is somewhat faster than a vanilla §6Furnace§f, which takes §a200 ticks§f. The fuel efficiency remains the same for all furnaces.
+
+# db 15
+omnifactory.quest.db.15.title=Furnace v3.0
+omnifactory.quest.db.15.desc=§3Copper Furnaces§f are another step up in speed, taking §a100 ticks§f to smelt an item.
+
+# db 16
+omnifactory.quest.db.16.title=Furnace v4.0
+omnifactory.quest.db.16.desc=§3Silver Furnaces§f are another step up in speed, taking a mere §a60 ticks§f to smelt an item.
+
+# db 17
+omnifactory.quest.db.17.title=Furnace v5.0
+omnifactory.quest.db.17.desc=§3Gold Furnaces§f are yet another step up in speed, taking only §a40 ticks§f to smelt an item.
+
+# db 18
+omnifactory.quest.db.18.title=Furnace v7.0
+omnifactory.quest.db.18.desc=While §3Obsidian Furnaces§f are the same speed as §3Diamond Furnaces§f, they have twice the throughput since they can §esmelt two items at once§f.%n%nYou may find that Diamond Furnaces suit your needs better than Obsidian, but they'll both be crafting ingredients in various machines soon enough, so crafting one is not a waste, even if you don't use it.
+
+# db 19
+omnifactory.quest.db.19.title=Alloy Smelter
+omnifactory.quest.db.19.desc=Alloy Smelters are used to create alloys by melting and reforming items together.%n%nNow you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible.
+
+# db 20
+omnifactory.quest.db.20.title=Furnace v6.0
+omnifactory.quest.db.20.desc=§3Diamond Furnaces§f are the fastest available, taking only §a25 ticks§f to smelt an item.
+
+# db 21
+omnifactory.quest.db.21.title=Steel
+omnifactory.quest.db.21.desc=§6Steel§r is a basic component in all sorts of machines and alloys. It is made in the §3Alloy Smelter§r.%n%nYou might want to save your §6Coal Dust§r for circuits and use §6Charcoal Dust§r instead. Later, you can also centrifuge either of these dusts or §6Coal Coke Dust§r into §6Carbon Dust§r, which can be used for Steel and other useful things.
+
+# db 22
+omnifactory.quest.db.22.title=Pyrolyse Oven
+omnifactory.quest.db.22.desc=The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products.%n%nTurning §6Coal§r into §6Coal Coke§r will not only make it more useful as fuel, but will also produce §9Phenol§r, which you'll need for circuits.%n%nThe Pyrolyse oven is also the source of several other fluids that can be distilled for useful ingredients.
+
+# db 23
+omnifactory.quest.db.23.title=Obsidian
+omnifactory.quest.db.23.desc=You'll need Obsidian to make Dark Steel. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:%n%n1) A Diamond Pickaxe or Diamond Mining Hammer.%n%n2) A Platinum Mining Hammer (not pickaxe though).%n%n3) A Cobalt Pickaxe (smelted from Cobaltite).
+
+# db 24
+omnifactory.quest.db.24.title=Steam Dynamo
+omnifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dOmnicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
+
+# db 25
+omnifactory.quest.db.25.title=Cake Based Dimensional Transit
+omnifactory.quest.db.25.desc=This quest is repeatable once per hour and gives you a free cake to the Void World or Overworld. You can also refill your cakes with the items indicated in their tooltips.
+
+# db 26
+omnifactory.quest.db.26.title=Dark Steel
+omnifactory.quest.db.26.desc=§6Steel§r alloyed with §6Obsidian§r makes §6Dark Steel§r, which is needed for many of the machines in §bEnderIO§r and §bApplied Energistics§r.%n%nLater, you can use §6Void Crystal§r instead of Obsidian.
+
+# db 27
+omnifactory.quest.db.27.title=LV Chemical Reactor
+omnifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
+
+# db 28
+omnifactory.quest.db.28.title=Pulsating Dust
+omnifactory.quest.db.28.desc=§6Pulsating Dust§r is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make §6Pulsating Ingots§r and §6Ender Pearls§r.%n%nYour first source of Pulsating Dust is §6Uraninite§r, which you can get from §6Uraninite Ore§r. Later on, you'll be able to produce Pulsating Dust by smelting §6Resonant Clathrates§r.%n%n§lPlease note that the Enderpearl Dust electrolysis recipe requires an EV Electrolyzer, and is most likely not worth it.§r
+
+# db 29
+omnifactory.quest.db.29.title=Pulsating Iron and Ender Pearls
+omnifactory.quest.db.29.desc=An EnderIO alloy.%n%nMade from Pulsating Dust and an Iron Ingot.%n%nIf you can't find one otherwise, Ender Pearls can be crafted using Pulsating Dust and a Diamond in an Alloy Smelter.
+
+# db 30
+omnifactory.quest.db.30.title=Electrical Steel
+omnifactory.quest.db.30.desc=An §bEnderIO§r alloy, made from §6Silicon Dust§r and a §6Steel Ingot§r.%n%nThis material is frequently used in electronics and digital equipment.
+
+# db 31
+omnifactory.quest.db.31.title=Vibrant Capacitor Bank
+omnifactory.quest.db.31.desc=Two §aAdvanced Capacitor Banks§r can be grafted together with a §6Vibrant Crystal§r and §6Vibrant Alloy Plates§r to create a §aVibrant Capacitor Bank§r, which stores five times as much RF as the advanced bank, for a total of twenty-five times as much as the basic bank.
+
+# db 32
+omnifactory.quest.db.32.title=Advanced Capacitor Bank
+omnifactory.quest.db.32.desc=Two §aCapacitor Banks§r can be grafted together with a §6Double-Layer Capacitor§r and §6Electrical Steel§r to create an §aAdvanced Capacitor Bank§r, which stores five times as much RF as the basic bank.
+
+# db 33
+omnifactory.quest.db.33.title=Basic Capacitor Bank
+omnifactory.quest.db.33.desc=Expandable multi-block storage for RF power.%n%nThis first tier isn't much, but you can upgrade them over time to hold substantial amounts of power.
+
+# db 34
+omnifactory.quest.db.34.title=Energetic Alloy
+omnifactory.quest.db.34.desc=An §bEnderIO§r alloy, made from §6Energetic Blend§r and a §6Gold Ingot§r in your new §3Electric Blast Furnace§r.%n%nThrow both ingredients into the input bus and in twenty seconds your §6Energetic Alloy Ingot§r will be in the output bus.
+
+# db 35
+omnifactory.quest.db.35.title=Vibrant Alloy
+omnifactory.quest.db.35.desc=An EnderIO alloy.
+
+# db 36
+omnifactory.quest.db.36.title=Gap
+omnifactory.quest.db.36.desc=
+
+# db 37
+omnifactory.quest.db.37.title=Rubber Sheets
+omnifactory.quest.db.37.desc=Going out in search of a §6Rubber Tree§f is a viable option for sure. However, if this isn't appealing, you can also §eshear leaves§f and make §6Plantballs§f out of them. Plantballs smelt into §6Slime§f, and Slime smelts into §6Rubber§f.%n%nYou'll want to transition to Rubber Trees at some point, though, since the §eratio of leaves to rubber is quite poor§f.%n%nRubber can be hammered into sheets just like metals can be turned to plates. It's quite inefficient to do it this way, but such is the life of early game §bGregTech§f. At least rubber isn't particularly hard to come by.
+
+# db 38
+omnifactory.quest.db.38.title=LV CEF
+omnifactory.quest.db.38.desc=Until now you have been generating §aRF power§r with your §3Steam Dynamos§r, but §bGregTech§r machines require §aEU power§r. With your first §6circuit§r in hand, you are ready to build a §eLow Voltage (LV) §3CEF§r.%n%nThe §3CEF§r is a special device that §econverts §aRF power§r into §aEU power§r. CEFs come in two sizes: §e4 Amps§r and §e16 Amps§r, which have 4 and 16 inventory slots, respectively. Each slot in a CEF can hold a single §6Battery§r.%n%nYou don't §oneed§r to put §bGregTech§r batteries inside the CEF§r, but keep in mind that §ethe CEF will be restricted to at most outputting one amp per battery inside§r if you do. With no batteries, they will output up to their rated number of amps as needed.%n%n§aRF§r converts into §aEU§r at a §e4 to 1 ratio§r. §a100 RF§r becomes §a25 EU§r, and vice-versa. If you ever switch over to being primarily powered by §aEU§r, a device called the §3CEU§r can switch power from §aEU§r into §aRF§r.
+
+# db 39
+omnifactory.quest.db.39.title=Item Conduits
+omnifactory.quest.db.39.desc=Item conduits are useful for moving items between inventories over moderate distances.%n%nCrafting them in an Assembling Machine instead of by hand gives twice as many conduits.
+
+# db 40
+omnifactory.quest.db.40.title=Conductive Iron Energy Conduits
+omnifactory.quest.db.40.desc=The most basic tier of §aRF§r energy conduits from §bEnderIO§r.%n%nThese can be used to transport energy from your §3Steam Dynamos§r to various destinations.
+
+# db 41
+omnifactory.quest.db.41.title=Energetic Alloy Energy Conduits
+omnifactory.quest.db.41.desc=Now that you have §6Energetic Alloy§r, it's time to make some better conduits!%n%nEach time you upgrade your conduits, you'll also get more of them. Neat!%n%nIf you don't have an §3Assembling Machine§r, you'll have to make them by hand. This method isn't as efficient as the machine, but you'll make one soon enough.
+
+# db 42
+omnifactory.quest.db.42.title=Vibrant Alloy Energy Conduits
+omnifactory.quest.db.42.desc=Conduits to carry even MORE RF power.%n%nYou're making these in the §3Assembling Machine§r, right?
+
+# db 43
+omnifactory.quest.db.43.title=Gap
+omnifactory.quest.db.43.desc=
+
+# db 44
+omnifactory.quest.db.44.title=Double Capacitor
+omnifactory.quest.db.44.desc=Combining §6Basic RF Capacitors§r with some §6Coal Dust§r and §6Energetic Alloy§r produces a §6Double-Layer RF Capacitor§r.%n%nThis is a tier two capacitor. Higher tier RF Capacitors will make §bEnderIO§r machines process faster and depending on the machine will expand their capabilities further (like area of effect).
+
+# db 45
+omnifactory.quest.db.45.title=Ironman
+omnifactory.quest.db.45.desc=Being able to fly is nice. This is the first jetpack that uses §bEnderIO§r materials.%n%nThere's also a quest chain for §bThermal Expansion§r material Jetpacks (starting with the §6Leadstone Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.
+
+# db 46
+omnifactory.quest.db.46.title=Gap
+omnifactory.quest.db.46.desc=
+
+# db 47
+omnifactory.quest.db.47.title=Ironman 3
+omnifactory.quest.db.47.desc=Flying faster, even nicer.
+
+# db 48
+omnifactory.quest.db.48.title=Ironman 2
+omnifactory.quest.db.48.desc=Flying faster is nice.
+
+# db 49
+omnifactory.quest.db.49.title=Air Centrifuging
+omnifactory.quest.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.%n%nCentrifuging air is a reliable way to get §9Nitrogen§r before you have access to §3Cryogenic Distillation§r.%n%n
+
+# db 50
+omnifactory.quest.db.50.title=Pressurized Fluid Conduits
+omnifactory.quest.db.50.desc=§bEnderIO§f conduits are the preferred way to move fluids around, rather than Gregtech pipes. Incredibly flexible and powerful, they'll make fluid crafting almost bearable.
